@@ -1,3 +1,7 @@
 # VBA-challenge
-## Create a script the loops throught all the stocks for one year and oututs the following information
-###The Ticker Symbol
+### This repository conatins the files related to the VBA Challenge
+
+
+
+### Solution files 
+There are two solution files in this repository
